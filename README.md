@@ -33,3 +33,5 @@ Your notes and study materials are stored securely and only accessible to you. A
 1. Taking smart notes during lectures
 2. Studying for exams with flashcards and quizzes
 3. Getting instant help understanding complex topics
+
+Link to Figma: https://www.figma.com/proto/RPfaE7GWZRBzYJK7wDbZBR/Notora?node-id=0-1&t=ZAj6N52A7uzWnfSQ-1 
